@@ -213,6 +213,8 @@ footer{
   .ten-years-badge{
     position: static;
     max-width: 300px;
+    padding: 5px;
+  }
   }
   nav > ul{
     flex-direction: column;
